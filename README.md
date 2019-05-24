@@ -5,7 +5,7 @@
 * python2
 
 # how to install
-* $git clone https://github.com/ROOT-HAWK/ISSdos
+* $git clone https://github.com/command-terminal-consol/ISSdos
 * $chmod +x ISStress.py
 * $python2 ISStress.py https://www.target.com -p 80 
 -s 100 
